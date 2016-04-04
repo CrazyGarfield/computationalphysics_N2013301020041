@@ -25,4 +25,9 @@ Welcome to my readme!
 **SOMETHING INTERESTING**
 ------------------------------
 
-*THE MOST IMPORTANT THING:*I want to do something about deap learning this term.But I will only do it in my game time(which is very limited).It doesn't matter.If someone do be interested in deap learning and want have a try with someone.We can utilize the open resource in the web(for example:[https://github.com/mnielsen/neural-networks-and-deep-learning.git ]).Maybe we can't finish any thing,you know try is the first step to successful.
+**THE MOST IMPORTANT THING:**I want to do something about deap learning this term.But I will only do it in my game time(which is very limited).It doesn't matter.If someone do be interested in deap learning and want have a try with someone.We can utilize the open resource in the web(for example:[https://github.com/mnielsen/neural-networks-and-deep-learning.git ]).Maybe we can't finish any thing,you know try is the first step to successful.
+
+**OTHER THINGS:**
+I write a program which can draw atree in 2D
+
+**一个中文的致谢：感谢徐少博同学对我python基础语法的指导。**全文未完，有空接着写...
