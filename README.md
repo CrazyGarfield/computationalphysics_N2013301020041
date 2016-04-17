@@ -21,7 +21,12 @@ Welcome to my readme!
  FIFTH HOMEWORK
 
  3. chapter2.
-
+ 4. 
+ 5.
+ 6.
+ 7.
+ 8.
+ 9.
 **SOMETHING INTERESTING**
 ------------------------------
 
@@ -29,5 +34,6 @@ Welcome to my readme!
 
 **OTHER THINGS:**
 I write a program which can draw atree in 2D
+
 
 **一个中文的致谢：感谢徐少博同学对我python基础语法的指导。**全文未完，有空接着写...
