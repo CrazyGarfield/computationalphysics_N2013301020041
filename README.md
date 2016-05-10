@@ -28,7 +28,7 @@ Welcome to my readme!
  8.
  9.
 10.
-11.今晚怎么都要写完更新第11次作业！
+11.ㄘㄇㄟㄖ
 **SOMETHING INTERESTING**
 ------------------------------
 
