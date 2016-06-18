@@ -44,12 +44,15 @@ Welcome to my readme!
 期末作业:
 
 
+
+[希望这个工具对你有帮助 GitHub Desktop ][111]
+
 **SOMETHING INTERESTING**
 ------------------------------
 
 **THE MOST IMPORTANT THING:**I want to do something about deap learning this term.But I will only do it in my game time(which is very limited).It doesn't matter.If someone do be interested in deap learning and want have a try with someone.We can utilize the open resource in the web(for example:[https://github.com/mnielsen/neural-networks-and-deep-learning.git ]).Maybe we can't finish any thing,you know try is the first step to successful.
 
-该信息一致有效，我的qq:592957447，如果任何看到的人对此有兴趣，欢迎与我取得联系。
+该信息一直有效，我的qq:592957447，如果任何看到的人对此有兴趣，欢迎与我取得联系。
 
 **OTHER THINGS:**
 
@@ -61,3 +64,4 @@ I write a program which can draw atree in 2D
 **必须在readme里写的致谢：感谢徐少博同学一直以来对我python基础语法的指导，以及对我的鼓励，感谢群"一起学python"的群友们善意的建议与指导，感谢"实验楼"免费部分的教程**
 -------------------------------------------------------------------------------------------------------------------------------
 [3]:https://github.com/CrazyGarfield/HOMEWORK/blob/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A.md
+[111]:https://desktop.github.com/
