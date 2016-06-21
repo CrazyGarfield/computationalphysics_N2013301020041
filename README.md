@@ -19,7 +19,7 @@ Welcome to my readme!
 
 第三次作业:[链接][3]
 
-第四次作业:
+第四次作业:[链接][4]
 
 第五次作业:
 
@@ -65,3 +65,4 @@ I write a program which can draw atree in 2D
 -------------------------------------------------------------------------------------------------------------------------------
 [3]:https://github.com/CrazyGarfield/HOMEWORK/blob/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A.md
 [111]:https://desktop.github.com/
+[4]:https://github.com/CrazyGarfield/computationalphysics_N2013301020041/blob/master/4/%E7%AC%AC4%E6%AC%A1%E4%BD%9C%E4%B8%9A.md
