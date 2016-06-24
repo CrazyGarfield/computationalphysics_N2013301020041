@@ -102,11 +102,11 @@ for i in range(61):
 #画图
 plt.figure()
 
-a = plt.streamplot(X, Y, np.array(ey), np.array(ex), color=np.array(e), linewidth=2, cmap=plt.cm.autumn)
-plt.colorbar(a.lines)
-a.set_xlabel('x(m)')
-a.set_ylabel('y(m)')
-a.set_title('Electric field')
+plt.streamplot(X, Y, np.array(ey), np.array(ex), color=np.array(e), linewidth=2, cmap=plt.cm.autumn)
+
+plt.xlabel('x(m)')
+plt.ylabel('y(m)')
+plt.title('Electric field')
 plt.show()
 
 
