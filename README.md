@@ -12,7 +12,7 @@ Welcome to my readme!
 
 **HOMEWORK**
 ---------------
-#我还在努力地写，终于写完啦啊哈哈哈，上传中，所有程序和代码写完后一次上传，保证在周五(6月24日)21点前上传完，请再给我点时间，非常感谢。
+#已经全部上传完，有些报告图片还没有和图片链接上，软件池里的,每一份报告都有近30张图，我休息两个小时继续，请再给我点时间，非常感谢。
 -----------------------------------------------------------------------------------------------------------------
 第一次作业:完成，大部分程序在狂莽之灾上编写，少部分在linux上编写。
 
@@ -24,23 +24,23 @@ Welcome to my readme!
 
 [第五次作业][5]
 
-第六次作业:
+[第六次作业][6]
 
-第七次作业:
+[第七次作业][7]
 
-第八次作业:
+[第八次作业][8]
 
-第九次作业:
+[第九次作业][9]
 
-第十次作业:
+[第十次作业][10]
 
-第十一次作业:
+[第十一次作业][11]
 
-第十二次作业:
+[第十二次作业][12]
 
 [第十三次作业][13]
 
-第十四次作业:
+[第十四次作业][14]
 
 [期末作业][15]
 
@@ -70,3 +70,12 @@ I write a program which can draw atree in 2D
 [4]:https://github.com/CrazyGarfield/computationalphysics_N2013301020041/blob/master/4/%E7%AC%AC4%E6%AC%A1%E4%BD%9C%E4%B8%9A.md
 [5]:https://github.com/CrazyGarfield/computationalphysics_N2013301020041/blob/master/5/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A.md
 [13]:https://github.com/CrazyGarfield/computationalphysics_N2013301020041/blob/master/13/%E7%AC%AC13%E6%AC%A1%E4%BD%9C%E4%B8%9A.md
+[6]:https://github.com/CrazyGarfield/computationalphysics_N2013301020041/blob/master/第六次作业.md
+[7]:https://github.com/CrazyGarfield/computationalphysics_N2013301020041/blob/master/第七次作业.md
+[8]:https://github.com/CrazyGarfield/computationalphysics_N2013301020041/blob/master/第八次作业.md
+[9]:https://github.com/CrazyGarfield/computationalphysics_N2013301020041/blob/master/第九次作业.md
+[10]:https://github.com/CrazyGarfield/computationalphysics_N2013301020041/blob/master/第十次作业.md
+[11]:https://github.com/CrazyGarfield/computationalphysics_N2013301020041/blob/master/第11次作业.md
+[12]:https://github.com/CrazyGarfield/computationalphysics_N2013301020041/blob/master/第12次报告.md
+[13]:https://github.com/CrazyGarfield/computationalphysics_N2013301020041/blob/master/第13次作业.md
+[14]:https://github.com/CrazyGarfield/computationalphysics_N2013301020041/blob/master/第十四次作业.md
